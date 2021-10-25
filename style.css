@@ -1,0 +1,188 @@
+ body{
+	background-color:#3B4852;
+	background-position: center;
+	background-size:cover;
+	margin-bottom: 10%;
+}
+img{
+	width: 17%;
+	border-radius: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h2{
+	font-size: 200%;
+	font
+}
+h3{
+	font-size:150%;
+}
+.welcome{
+	background-color:white;
+	color: black;
+	font-family:"Raleway",sans serif;
+	text-align:center;
+	font-size: 130%;
+	width:60%;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 3%;
+  	margin-top: 3%;
+  	padding: 3%;	
+  	position:static;
+  	border-radius: 15px;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	margin-bottom: 5%;
+  }
+.bandeau{
+	background-color:white;
+	padding:2%;
+	width:70%;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 13%;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	position: center;
+  	text-align: center;
+  	border-radius: 15px;
+}
+a{
+	background-color:white;
+	border-radius: 15px;
+	padding:1%;
+	text-decoration: none;
+	text-overflow: none;
+	color: black;
+	margin-left:6%;
+	margin-right:6%;
+	font-size:200%;
+	font-family:"Raleway",sans serif;
+	display:inline-block;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Hobbies{
+	background-color:white;
+	color: black;
+	font-family:"Raleway",sans serif;
+	text-align:center;
+	font-size: 100%;
+	width:60%;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 20%;
+  	padding: 3%;	
+  	border-radius: 15px;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	opacity:80%;
+  	}
+.Hobbies:hover{
+	opacity:95%;
+}
+#stonks{
+	width:30%;
+	border-radius: 5px;	
+	margin-top: 5%;
+}
+.entrepreneurship{
+	background-color:white;
+	color: black;
+	font-family:"Raleway",sans serif;
+	text-align:center;
+	width:60%;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 20%;
+  	padding: 3%;
+  	border-radius: 15px;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	opacity:80%;
+}
+.entrepreneurship:hover{
+	opacity:95%;
+}
+#insta{
+	width:20%;
+	border-radius: 5px;
+	margin-top: 3%;
+	margin-left: auto;
+  	margin-right: auto;
+	display:inline-block;
+}
+
+.Me{
+	background-color:white;
+	color: black;
+	font-family:"Raleway",sans serif;
+	text-align:center;
+	width:60%;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 1%;
+  	padding: 3%;
+  	border-radius: 15px;
+  	background-position: center;
+   	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	opacity:80%;
+
+  }
+.Me:hover{
+	opacity:95%;
+}
+ #lol{
+ 	width:40%;
+	border-radius: 5px;
+	margin-top: 5%;
+ }
+.ancre1 {
+  position: absolute;
+  transform: translateY(-50vh);
+}
+.ancre2 {
+  position: absolute;
+  transform: translateY(-40vh);
+}
+.ancre3 {
+  position: absolute;
+  transform: translateY(-100vh);
+}
+.footer{
+	background-color:white;
+	color: black;
+	font-family:"Raleway",sans serif;
+	text-align:center;
+	width:80%;
+	margin-left: auto;
+  	margin-right: auto;
+  	padding: 1%;
+  	border-radius: 15px;
+  	background-position: center;
+   	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	opacity:80%;
+  	margin-top: 2%;
+}
+.fa-discord{
+	color:grey;
+	margin-left:5%;
+	margin-right:5%;
+}
+.fa-discord:hover{
+	color:#5562EA;
+}
+.fa-twitter-square{
+	color:grey;
+	margin-left:5%;
+	margin-right:5%;
+}
+.fa-twitter-square:hover{
+	color:#1DA1F2;
+}
+.fa-instagram{
+	color:grey;
+	margin-left:5%;
+	margin-right:5%;
+}
+.fa-instagram:hover{
+	color:#DC3180;
+}
